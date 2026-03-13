@@ -1,5 +1,5 @@
 # Superstore Sales Performance Dashboard
-
+![Dashboard Preview](dashboard-preview.png)
 ## Overview
 This project is an interactive Tableau dashboard analyzing sales performance across product categories, regions, and time trends using the Superstore dataset.
 
